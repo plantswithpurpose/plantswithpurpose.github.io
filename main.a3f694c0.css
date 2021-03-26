@@ -23,7 +23,11 @@ img[src = "./assets/images/PWP_banner.svg"]
 .pricing-card{background:#ddd;padding:.5rem 3rem;text-align:center;}@media (min-width:992px){.pricing-card{height: 310px}}@media (max-width:992px){.pricing-card{height: auto}}.pricing-card.pricing-primary{background-color:#D89CF4}.pricing-card.pricing-info{background-color:#154F34}.pricing-card.pricing-secondary{background-color:#1f2946}
 .pricing-card h3{color:#fff}.pricing-card .price{font-size:5em;padding:1rem 0;color:#fff}.pricing-card .price span{font-size:.2em}
 
-.features{padding-left:40px;list-style:none}.features li{position:relative;margin-bottom:30px}.features li:before{font-family:FontAwesome;content:"\F058";position:absolute;left:-40px;color:#D89CF4;border:1px solid #D89CF4;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50px;top:2px}.features-herb{padding-left:40px;list-style:none}.features-herb li{position:relative;margin-bottom:30px}.features-herb li:before{font-family:FontAwesome;content:"\F058";position:absolute;left:-40px;color:#154F34;border:1px solid #154F34;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50px;top:2px}.features-list li:before{font-family:FontAwesome;content:"\f06c";position:absolute;left:-40px;color:#154F34;border:0px solid #154F34;width:34px;height:34px;text-align:center}.download-card{background-color:#f5f5f5;text-align:center;padding:5rem 8rem;margin-bottom:20px}@media (min-width:992px){.download-card{padding:5rem 15rem;margin-bottom:0}}
+.features{padding-left:40px;list-style:none}.features li{position:relative;margin-bottom:30px}.features li:before{font-family:FontAwesome;content:"\F058";position:absolute;left:-40px;color:#D89CF4;border:1px solid #D89CF4;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50px;top:2px}.features-herb{padding-left:40px;list-style:none}.features-herb li{position:relative;margin-bottom:30px}.features-herb li:before{font-family:FontAwesome;content:"\F058";position:absolute;left:-40px;color:#154F34;border:1px solid #154F34;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50px;top:2px}
+
+.features-list li:before{font-family:FontAwesome;content:"\f192";position:absolute;left:-40px;color:#154F34;border:0px solid #154F34;width:34px;height:34px;text-align:center}
+
+.download-card{background-color:#f5f5f5;text-align:center;padding:5rem 8rem;margin-bottom:20px}@media (min-width:992px){.download-card{padding:5rem 15rem;margin-bottom:0}}
 
 .pricing-features{background-color:#f5f5f5;}
 
