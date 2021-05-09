@@ -175,5 +175,15 @@ img[src = "./assets/images/PWP_banner.svg"]
 	width: 60%;
     } 
 }
+.example{
+   background-image: url("./assets/images/un-side-white.png");
+   background-size: cover;
+   height: 100px;
+   width: 500px; 
+}
 
+@media (max-width: 483px) {
+   .example{
+       background-image: url("./assets/images/un-stacked.png");
+   }
 /*# sourceMappingURL=main.41beeca9.map*/
